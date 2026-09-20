@@ -2,8 +2,8 @@
 
 Automated distribution repository for BringBack APK and AAB builds.
 
-> **Latest Build:** `v1.0.5` (Code `6`)  
-> **Updated:** `2026-09-20 11:43:53`
+> **Latest Build:** `v1.0.6` (Code `7`)  
+> **Updated:** `2026-09-20 11:59:45`
 
 ---
 
@@ -13,7 +13,7 @@ Automated distribution repository for BringBack APK and AAB builds.
 |---|---|---|
 | Debug APK | [Download Debug APK](https://github.com/sangukissu/bringapk/releases/download/latest/bringback-debug.apk) | 15.85 MB |
 | Release APK | [Download Release APK](https://github.com/sangukissu/bringapk/releases/download/latest/bringback-release.apk) | 4.94 MB |
-| Release AAB | [Download Release AAB](https://github.com/sangukissu/bringapk/releases/download/latest/bringback-release.aab) | 7.64 MB |
+| Release AAB | [Download Release AAB](https://github.com/sangukissu/bringapk/releases/download/latest/bringback-release.aab) | 7.83 MB |
 
 ---
 
